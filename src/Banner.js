@@ -54,4 +54,4 @@ request.data.results[
     )
 }
 //inside banner_contents if title is not found go for name if name not loads got for original_name
-export default Banner
+export default Banner;

@@ -1,11 +1,11 @@
 import React from 'react';
 import "./Signup.css";
 function Signup (){
-    function prin(){
-        if(document.getElementById('language'))
-        document.getElementById('language').value=19;
-        //console.log(document.getElementById('language').value);
-    }
+    // function prin(){
+    //     if(document.getElementById('language'))
+    //     document.getElementById('language').value=19;
+    //     //console.log(document.getElementById('language').value);
+    // }
     // function sendData(event){
     //     event.preventDefault();
     //     if(document.getElementById('email')){

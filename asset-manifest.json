@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dare2Develop/static/css/main.b4fa81b8.chunk.css",
+    "main.js": "/dare2Develop/static/js/main.d55a70f0.chunk.js",
+    "main.js.map": "/dare2Develop/static/js/main.d55a70f0.chunk.js.map",
+    "runtime-main.js": "/dare2Develop/static/js/runtime-main.4f0a2825.js",
+    "runtime-main.js.map": "/dare2Develop/static/js/runtime-main.4f0a2825.js.map",
+    "static/js/2.0e4c344a.chunk.js": "/dare2Develop/static/js/2.0e4c344a.chunk.js",
+    "static/js/2.0e4c344a.chunk.js.map": "/dare2Develop/static/js/2.0e4c344a.chunk.js.map",
+    "static/js/3.acf3d349.chunk.js": "/dare2Develop/static/js/3.acf3d349.chunk.js",
+    "static/js/3.acf3d349.chunk.js.map": "/dare2Develop/static/js/3.acf3d349.chunk.js.map",
+    "index.html": "/dare2Develop/index.html",
+    "static/css/main.b4fa81b8.chunk.css.map": "/dare2Develop/static/css/main.b4fa81b8.chunk.css.map",
+    "static/js/2.0e4c344a.chunk.js.LICENSE.txt": "/dare2Develop/static/js/2.0e4c344a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f0a2825.js",
+    "static/js/2.0e4c344a.chunk.js",
+    "static/css/main.b4fa81b8.chunk.css",
+    "static/js/main.d55a70f0.chunk.js"
+  ]
+}
